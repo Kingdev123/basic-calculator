@@ -3,10 +3,11 @@ html, body{
     height: 100%;
     width: 100%;
     font-family: 'Roboto', sans-serif;
-    background-color: #edf1f4;
+    background-color: rgb(59, 59, 58);
 }
 h1{
     text-align: center;
+    Color: white;
 }
 .container{
     /* border: 2px solid red; */
