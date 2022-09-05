@@ -1,2 +1,2 @@
 # Basic-Calculator
-I made this calculator using HTML, CSS and basic JavaScript
+I made this neumorphism calculator using HTML, CSS and basic JavaScript
